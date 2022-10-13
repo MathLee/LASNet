@@ -2,7 +2,7 @@
   This project provides the code and results for 'RGB-T Semantic Segmentation with Location, Activation, and Sharpening', IEEE TCSVT, 2022. [IEEE link](https://ieeexplore.ieee.org/document/9900351)
   
 # Requirements
-  python 3.7/3.8 + pytorch 1.9.0 (based on [EGFNet](https://github.com/ShaohuaDong2021/EGFNet))
+  python 3.7/3.8 + pytorch 1.9.0 (biult on [EGFNet](https://github.com/ShaohuaDong2021/EGFNet))
    
    
 # Segmentation maps
@@ -12,6 +12,7 @@
 1. Install 'apex'.
 2. Download [MFNet dataset](https://pan.baidu.com/s/1NHGazP7pwgEM47SP_ljJPg) (code: 3b9o) or [PST900 dataset](https://pan.baidu.com/s/13xgwFfUbu8zNvkwJq2Ggug) (code: mp2h).
 3. Run train_LASNet.py (default to MFNet Dataset).
+
 Note: our main model is under './toolbox/models/LASNet.py'
 
 
