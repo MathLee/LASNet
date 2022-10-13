@@ -15,6 +15,8 @@
   
 3. Run train_LASNet.py (default to MFNet Dataset).
 
+Note: our main model is under './toolbox/models/LASNet.py'
+
 
 # Pre-trained model and testing
 1. Download the following pre-trained model and put it under './model/'.
