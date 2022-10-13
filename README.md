@@ -5,9 +5,22 @@
   python 3.7/3.8 + pytorch 1.9.0 (biult on [EGFNet](https://github.com/ShaohuaDong2021/EGFNet))
    
    
-# Segmentation maps
+# Segmentation maps and performace
    We provide segmentation maps on MFNet dataset and PST900 dataset under './model/'.
    
+   **Performace on MFNet dataset**
+   
+   <div align=center>
+   <img src="https://github.com/LASNet/HAINet/blob/main/Images/MFNet.png">
+   </div>
+   
+   **Performace on PST900 dataset**
+   
+   <div align=center>
+   <img src="https://github.com/LASNet/HAINet/blob/main/Images/PST900.png">
+   </div>
+ 
+
 # Training
 1. Install 'apex'.
 2. Download [MFNet dataset](https://pan.baidu.com/s/1NHGazP7pwgEM47SP_ljJPg) (code: 3b9o) or [PST900 dataset](https://pan.baidu.com/s/13xgwFfUbu8zNvkwJq2Ggug) (code: mp2h).
