@@ -1,5 +1,5 @@
 # LASNet 
-  This project provides the code and results for 'RGB-T Semantic Segmentation with Location, Activation, and Sharpening', IEEE TCSVT, 2022. [IEEE link](https://ieeexplore.ieee.org/document/9900351)
+  This project provides the code and results for 'RGB-T Semantic Segmentation with Location, Activation, and Sharpening', IEEE TCSVT, 2022. [IEEE link](https://ieeexplore.ieee.org/document/9900351) and [arxiv link](https://arxiv.org/abs/2210.14530)
   
 # Requirements
   python 3.7/3.8 + pytorch 1.9.0 (biult on [EGFNet](https://github.com/ShaohuaDong2021/EGFNet))
