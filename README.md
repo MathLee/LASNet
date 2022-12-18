@@ -22,7 +22,7 @@
  
 
 # Training
-1. Install '[apex](https://gitcode.net/mirrors/nvidia/apex?utm_source=csdn_github_accelerator)'.
+1. Install '[apex](https://github.com/NVIDIA/apex)'.
 2. Download [MFNet dataset](https://pan.baidu.com/s/1NHGazP7pwgEM47SP_ljJPg) (code: 3b9o) or [PST900 dataset](https://pan.baidu.com/s/13xgwFfUbu8zNvkwJq2Ggug) (code: mp2h).
 3. Run train_LASNet.py (default to MFNet Dataset).
 
