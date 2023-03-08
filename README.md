@@ -1,5 +1,5 @@
 # LASNet 
-  This project provides the code and results for 'RGB-T Semantic Segmentation with Location, Activation, and Sharpening', IEEE TCSVT, 2022. [IEEE link](https://ieeexplore.ieee.org/document/9900351) and [arxiv link](https://arxiv.org/abs/2210.14530)
+  This project provides the code and results for 'RGB-T Semantic Segmentation with Location, Activation, and Sharpening', IEEE TCSVT, 2023. [IEEE link](https://ieeexplore.ieee.org/document/9900351) and [arxiv link](https://arxiv.org/abs/2210.14530)
   
 # Requirements
   python 3.7/3.8 + pytorch 1.9.0 (biult on [EGFNet](https://github.com/ShaohuaDong2021/EGFNet))
@@ -40,8 +40,10 @@ Note: our main model is under './toolbox/models/LASNet.py'
                 author = {Gongyang Li and Yike Wang and Zhi Liu and Xinpeng Zhang and Dan Zeng},
                 title = {RGB-T Semantic Segmentation with Location, Activation, and Sharpening},
                 journal = {IEEE Transactions on Circuits and Systems for Video Technology},
-                year = {2022},
-                doi = {10.1109/TCSVT.2022.3208833},
+                year={2023},
+                volume={33},
+                number={3},
+                pages={1223-1235},
                 }
                 
                 
