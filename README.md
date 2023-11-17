@@ -5,7 +5,7 @@
   python 3.7/3.8 + pytorch 1.9.0 (biult on [EGFNet](https://github.com/ShaohuaDong2021/EGFNet))
    
    
-# Segmentation maps and performace
+# Segmentation maps and performance
    We provide segmentation maps on MFNet dataset and PST900 dataset under './model/'.
    
    **Performace on MFNet dataset**
