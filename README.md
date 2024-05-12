@@ -41,11 +41,11 @@ Note: our main model is under './toolbox/models/LASNet.py'
                 author = {Gongyang Li and Yike Wang and Zhi Liu and Xinpeng Zhang and Dan Zeng},
                 title = {RGB-T Semantic Segmentation with Location, Activation, and Sharpening},
                 journal = {IEEE Transactions on Circuits and Systems for Video Technology},
-                year={2023},
-                volume={33},
-                number={3},
-                pages={1223-1235},
-                month={Mar.},
+                year = {2023},
+                volume = {33},
+                number = {3},
+                pages = {1223-1235},
+                month = {Mar.},
                 }
                 
                 
