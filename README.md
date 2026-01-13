@@ -6,9 +6,9 @@
    
    
 # Segmentation maps and performance
-   We provide segmentation maps on MFNet dataset and PST900 dataset under './model/'.
+   We provide our segmentation maps on MFNet dataset and PST900 dataset under './model/'. We also provide the segmentation maps of some methods on MFNet dataset under './model/', named MFNet.zip.
    
-   **Performace on MFNet dataset**
+   **Performance on MFNet dataset**
    
    <div align=center>
    <img src="https://github.com/MathLee/LASNet/blob/main/Images/MFNet.png">
